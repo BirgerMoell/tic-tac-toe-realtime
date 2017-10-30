@@ -1,0 +1,40 @@
+.square {
+  width: 140px;
+  height: 140px;
+  line-height: 140px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #77e5e8;
+  border: 1px solid black;
+}
+
+.container {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.textContainer {
+  justify-content: center;
+}
+
+#role {
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+#message {
+  padding-bottom: 20px;
+}
+
+#reset {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 10px;
+  font-size: 14px;
+}
